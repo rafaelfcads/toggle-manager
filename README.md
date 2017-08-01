@@ -4,7 +4,7 @@ Esta API tem por objetivo expor serviços para o gerenciamento em tempo real e d
 
 Sinta-se livre para baixar ou clonar o código-fonte:
 
-    https://github.com/rafaelfcads/project-test.git
+    https://github.com/rafaelfcads/toggle-manager.git
 
 ## Features
 
