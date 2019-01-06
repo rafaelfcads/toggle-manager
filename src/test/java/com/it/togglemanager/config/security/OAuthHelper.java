@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.config.security;
+package com.it.togglemanager.config.security;
 
 import java.io.Serializable;
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.user;
+package com.it.togglemanager.domain.user;
 
 import static org.junit.Assert.*;
 
@@ -6,6 +6,9 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
+
+import com.it.togglemanager.domain.user.CustomUserDetail;
+import com.it.togglemanager.domain.user.User;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

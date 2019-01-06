@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.config.security;
+package com.it.togglemanager.config.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

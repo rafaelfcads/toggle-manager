@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.toggle;
+package com.it.togglemanager.domain.toggle;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.rest.core.annotation.HandleAfterCreate;
@@ -6,7 +6,7 @@ import org.springframework.data.rest.core.annotation.RepositoryEventHandler;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;
 
-import com.farfetch.togglemanager.config.kafka.Greeting;
+import com.it.togglemanager.config.kafka.Greeting;
 
 @RepositoryEventHandler(Toggle.class)
 @Component

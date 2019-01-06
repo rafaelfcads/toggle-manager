@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.user;
+package com.it.togglemanager.domain.user;
 
 import java.util.List;
 
@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.DBRef;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 
-import com.farfetch.togglemanager.domain.toggle.Toggle;
+import com.it.togglemanager.domain.toggle.Toggle;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

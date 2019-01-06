@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.user;
+package com.it.togglemanager.domain.user;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
@@ -20,7 +20,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
-import com.farfetch.togglemanager.config.security.OAuthHelper;
+import com.it.togglemanager.config.security.OAuthHelper;
+import com.it.togglemanager.domain.user.UserRepository;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager;
+package com.it.togglemanager;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;

@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.toggle;
+package com.it.togglemanager.domain.toggle;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

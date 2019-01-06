@@ -1,12 +1,12 @@
-package com.farfetch.togglemanager;
+package com.it.togglemanager;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 
-import com.farfetch.togglemanager.domain.user.CustomUserDetail;
-import com.farfetch.togglemanager.domain.user.UserRepository;
+import com.it.togglemanager.domain.user.CustomUserDetail;
+import com.it.togglemanager.domain.user.UserRepository;
 
 @SpringBootApplication
 public class ToggleManagerApplication {

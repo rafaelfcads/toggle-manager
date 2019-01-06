@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.user;
+package com.it.togglemanager.domain.user;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

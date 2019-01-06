@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.config.kafka;
+package com.it.togglemanager.config.kafka;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

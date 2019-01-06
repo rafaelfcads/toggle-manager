@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.user;
+package com.it.togglemanager.domain.user;
 
 import java.util.ArrayList;
 import java.util.Collection;

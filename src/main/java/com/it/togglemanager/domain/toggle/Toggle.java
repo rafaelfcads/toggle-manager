@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.toggle;
+package com.it.togglemanager.domain.toggle;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

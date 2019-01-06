@@ -1,4 +1,4 @@
-package com.farfetch.togglemanager.domain.toggle;
+package com.it.togglemanager.domain.toggle;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
@@ -20,8 +20,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
-import com.farfetch.togglemanager.config.security.OAuthHelper;
 import com.google.gson.Gson;
+import com.it.togglemanager.config.security.OAuthHelper;
+import com.it.togglemanager.domain.toggle.Toggle;
+import com.it.togglemanager.domain.toggle.ToggleRepository;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
